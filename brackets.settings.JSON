@@ -1,0 +1,8 @@
+"linting.prefer": [
+        "JSHint",
+        "JSCS"
+    ],
+"jslintOptions":{
+    "pal": true,
+    "txt": true,
+}
